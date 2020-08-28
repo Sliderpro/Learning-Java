@@ -1,6 +1,6 @@
 class DogBarking {
 	
-	//THIC makes Dog bark randomly! Or not bark.
+	//BICT makes Dog bark randomly! Or not bark.
 	
 	public static void main (String args[]) {
 	//Start
